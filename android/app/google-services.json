@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93947142892",
+    "firebase_url": "https://labels-book.firebaseio.com",
+    "project_id": "labels-book",
+    "storage_bucket": "labels-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93947142892:android:153fd50fc4f70b15c17bc9",
+        "android_client_info": {
+          "package_name": "com.prezotech.labelsbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93947142892-j9nj7pd668ju8gh8ftdau7lbbghbtefo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prezotech.labelsbook",
+            "certificate_hash": "8326f78fe5fcca5999f426d5bb818f5fc43ce875"
+          }
+        },
+        {
+          "client_id": "93947142892-3kc7070pek0mijoumntq36srkdmvkcn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7gvk3zkORYiH4_8ZeMbe9iq2PTThwYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93947142892-3kc7070pek0mijoumntq36srkdmvkcn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
